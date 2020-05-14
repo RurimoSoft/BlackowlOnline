@@ -1,6 +1,6 @@
 # BlackowlOnline (흑부엉온라인)
 BlackowlOnline RPG windows game based on RMXP. <br>
-흑부엉온라인 접속기 클라이온트 공개 다운로드 리파지토리 입니다. <br>
+흑부엉온라인 접속기 클라이언트 공개 다운로드 리파지토리 입니다. <br>
 
 ## Download
 다운로드는 [release](https://github.com/RurimoSoft/BlackowlOnline/releases) 참조.
