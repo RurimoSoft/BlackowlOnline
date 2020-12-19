@@ -11,7 +11,7 @@ BlackowlOnline RPG windows game based on RMXP. <br>
 이미 설치가 되어있으신 경우는 따로 설치하실 필요가 없습니다.
 
 ### 2. 게임 접속기 설치
-RMXP 패키지를 설치하셨다면, [게임 접속기](https://github.com/RurimoSoft/BlackowlOnline/releases/download/0.26/Baram.exe)를 설치하여 게임을 최신상태로 업데이트 하고 곧 바로 접속하실 수 있습니다. <br>
+RMXP 패키지를 설치하셨다면, [게임 접속기](https://github.com/RurimoSoft/BlackowlOnline/releases/download/0.26/Baram.zip)를 설치하여 게임을 최신상태로 업데이트 하고 곧 바로 접속하실 수 있습니다. <br>
 
 ### 3. 업데이트하기
 게임 접속기 (Baram.exe)를 실행하면 아래와 같이 게임이 최신버전으로 업데이트를 시작합니다. <br><br>
