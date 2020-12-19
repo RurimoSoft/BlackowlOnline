@@ -3,7 +3,17 @@ BlackowlOnline RPG windows game based on RMXP. <br>
 흑부엉온라인 접속기 클라이언트 공개 다운로드 리파지토리 입니다. <br>
 
 ## Download
-다운로드는 [release](https://github.com/RurimoSoft/BlackowlOnline/releases) 참조.
+다운로드 방법은 다음과 같은 순서로 진행됩니다.
+
+### 1. RMXP 패키지 설치
+게임 클라이언트 실행에 필요한 [xp-rtp104](https://github.com/RurimoSoft/BlackowlOnline/releases/download/0.1/xp_rtp104e.exe)를 설치합니다. <br>
+게임 클라이언트는 RMXP 기반으로써 일반적인 RMXP 게임 실행에 필요한 패키지 입니다. 이미 설치가 되어있으신 경우는 따로 설치하실 필요가 없습니다.
+
+### 2. 게임 접속기 설치
+RMXP 패키지를 설치하셨다면, 게임 접속기를 설치하여 게임을 최신상태로 업데이트 하고 곧바로 접속하실 수 있습니다.
+
+### Release
+새로운 버전에 대한 정보는 [release](https://github.com/RurimoSoft/BlackowlOnline/releases)를 참조해주세요.
 
 ## Since 2009
 흑부엉온라인은 2009년도 첫 출시 이후로 RMXP 클라이언트와 자체 개발된 서버 및 접속기에 구동됩니다.<br>
