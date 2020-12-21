@@ -73,6 +73,13 @@ __게임시작__ 버튼을 누르면 아래와 같이 게임서버 선택화면�
 - [@ggomdyu(오후)](https://github.com/ggomdyu) (초기 스텝/카페 운영진)
 - [@asdfghjkkl11(SeungBeom)](https://github.com/asdfghjkkl11) (2019~ 클라이언트 개발에 참여)
 
+## Video
+[게임 플레이 비디오](https://www.youtube.com/watch?v=USCklrLjH1Y)
+
+<a href="https://www.youtube.com/watch?v=USCklrLjH1Y">
+<img src="https://img.youtube.com/vi/USCklrLjH1Y/0.jpg" />
+</a>
+
 ## Screenshot
 ![screenshot1386144891](https://user-images.githubusercontent.com/27774870/81933179-ec442000-9627-11ea-9165-c390d512b701.png)
 
