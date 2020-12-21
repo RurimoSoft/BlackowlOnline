@@ -11,6 +11,9 @@ BlackowlOnline RPG windows game based on RMXP. <br><br>
 ## History
 [카페](https://cafe.naver.com/blackowlsbaram/3909)에서 흑부엉온라인의 역사를 찾아보실수 있습니다!
 
+## Ranking
+[명예의 전당](http://27.119.108.46:3501/ranking)에서 유저들의 랭킹을 한눈에 확인해보실 수 있습니다.
+
 ## Download
 다운로드 방법은 다음과 같은 순서로 진행됩니다.
 
